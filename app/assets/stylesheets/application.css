@@ -15,7 +15,6 @@
 
 .map_border{
   padding:1em;
-  width: 630px;
   border-radius: 10px;
 }
 
@@ -25,7 +24,6 @@
 }
 .map_wrapper{
   display: inline-block;
-  width: 40em;
   float: left;
 }
 
@@ -35,6 +33,7 @@
 }
 
 h1{
+  text-align: center;
   padding: 1em;
   border-radius: 10px;
   font-size: 3em;
