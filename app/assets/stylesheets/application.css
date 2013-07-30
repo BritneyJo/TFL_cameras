@@ -11,3 +11,32 @@
  *= require_self
  *= require_tree .
  */
+
+
+.map_border{
+  padding:1em;
+  width: 630px;
+  border-radius: 10px;
+}
+
+#googleMap{
+  width:850px;
+  height:500px;
+}
+.map_wrapper{
+  display: inline-block;
+  width: 40em;
+  float: left;
+}
+
+.main_wrapper{
+  width: 55em;
+  margin: 0 auto;
+}
+
+h1{
+  padding: 1em;
+  border-radius: 10px;
+  font-size: 3em;
+  background: #EEEEEE;
+}
